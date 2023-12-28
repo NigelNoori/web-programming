@@ -16,7 +16,7 @@ This repository serves as a portfolio of my web development journey, featuring p
 
 ## Projects
 
-1. **[IranUkraineRussia_TextHoverEffects](./web-programming/tree/main/IranUkraineRussia_TextHoverEffects/):**
+1. **[IranUkraineRussia_TextHoverEffects](./NigelNoori/web-programming/tree/main/IranUkraineRussia_TextHoverEffects/):**
    Flags of three countries Iran,Ukrain,Russia with text hover effects 
 
 2. **[Molan](./web-programming/tree/main/Molan/):**
