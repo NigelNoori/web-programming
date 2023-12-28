@@ -16,13 +16,13 @@ This repository serves as a portfolio of my web development journey, featuring p
 
 ## Projects
 
-1. **[IranUkraineRussia_TextHoverEffects](./tree/main/IranUkraineRussia_TextHoverEffects/):**
+1. **[IranUkraineRussia_TextHoverEffects](./IranUkraineRussia_TextHoverEffects/):**
    Flags of three countries Iran,Ukrain,Russia with text hover effects 
 
-2. **[Molan](./tree/main/Molan/):**
+2. **[Molan](./Molan/):**
    a website about Molan's Movie with interaction and text hover effects  
 
-3. **[Starbucks](./tree/main/starbucks/):**
+3. **[Starbucks](./starbucks/):**
    Starbucks's website with animation  
 
 ## Technologies Used
